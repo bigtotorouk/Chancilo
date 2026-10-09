@@ -1,13 +1,12 @@
-```markdown
 # Chancilio Support
 
 Need help with Chancilio? We’re here to help.
 
 ## Contact Us
 
-For questions, feedback, or bug reports, use **Settings → Feedback** in the app, or contact us on Email:
+For questions, feedback, or bug reports, use **Settings → Feedback** in the app, or contact us on WeChat:
 
-**Email:** `bigtotorouk@gmail.com`
+**WeChat ID:** `i_gaoxiaojun`
 
 When reporting an issue, please include:
 
@@ -65,4 +64,3 @@ Read our [Privacy Policy](https://bigtotorouk.github.io/Chancilo/privacy-policy)
 ## Terms of Use
 
 Chancilio uses [Apple’s Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
-```
